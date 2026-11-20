@@ -19,8 +19,8 @@
 10178,toys,Super Soft Gingerbread Squishy – Green,سكويشي رجل الزنجبيل – أخضر,4.950
 10177,toys,Caged Animal Squishy – Yellow,سكويشي حيوان في القفص – أصفر,4.950
 10018,toys,Caged Animal Squishy – Blue,سكويشي حيوان في القفص – أزرق,4.950
-10024,toys,Jelly Squish Fruit – Green,سكويشي جيلي – أخضر,
-10172,toys,Glitter Squish Ball – White,كرة سكويشي لامعة – أبيض,
+10024,toys,Jelly Squish Fruit – Green,سكويشي جيلي – أخضر,4.750
+10172,toys,Glitter Squish Ball – White,كرة سكويشي لامعة – أبيض,2.950
 10026,toys,NeeDoh Oreo Nice Cube – Orange,نيدو أوريو نايس كيوب – برتقالي,2.500
 10171,toys,NeeDoh Oreo Nice Cube – Yellow,نيدو أوريو نايس كيوب – أصفر,2.500
 10028,toys,NeeDoh Oreo Nice Cube – Purple,نيدو أوريو نايس كيوب – بنفسجي,2.500
@@ -70,9 +70,9 @@
 10241,creative,Diamond Painting Kit – Puppy,لوحة الألماس – جرو,1.750
 10242,creative,Diamond Painting Kit – Pooh & Honey,لوحة الألماس – بوه والعسل,1.750
 10270,creative,Diamond Painting Kit – My Melody,لوحة الألماس – ماي ميلودي,1.750
-10189,creative,Drawing Book & Colouring Set,دفتر رسم ومجموعة تلوين,
-10193,creative,Artist Canvas – Black,لوحات رسم سوداء للفنانين,
-10196,creative,My Mini Canvas & Easel Set,طقم لوحة صغيرة مع حامل,
+10189,creative,Drawing Book & Colouring Set,دفتر رسم ومجموعة تلوين,0.900
+10193,creative,Artist Canvas – Black,لوحات رسم سوداء للفنانين,2.750
+10196,creative,My Mini Canvas & Easel Set,طقم لوحة صغيرة مع حامل,19.950
 10159,costumes,Pilot Costume – Girls,زي طيار – بنات,5.950
 10276,costumes,Pilot Costume – Boys,زي طيار – أولاد,5.950
 10157,costumes,Lab Coat & Goggles Set,طقم معطف مختبر ونظارات واقية,5.950
@@ -149,26 +149,26 @@
 10129,building,LEGO Space Diner Set,ليغو – مجموعة مطعم الفضاء,13.500
 10132,building,LEGO Star Wars Kamino Training Facility,ليغو حرب النجوم – منشأة تدريب كامينو,17.500
 10201,journals,Spiral Notebooks – Colour Set,دفاتر سلك – مجموعة ألوان,0.550
-10202,journals,Math Graph Notebook – 5 mm Squares,دفتر رياضيات – مربعات 5 ملم,
-10203,journals,Math Graph Notebook – 10 mm Squares,دفتر رياضيات – مربعات 10 ملم,
-10205,journals,Square Graph Pads – 10 mm,دفاتر مربعات – 10 ملم,
-10206,journals,Math Notebooks – Numbers Design,دفاتر رياضيات – تصميم الأرقام,
-10207,journals,Colourful Number Notebooks,دفاتر أرقام ملونة,
-10208,journals,Squared Notebooks – Modern Designs,دفاتر مربعات – تصاميم عصرية,
-10209,journals,Squared Notebooks – Kids Designs,دفاتر مربعات – تصاميم الأطفال,
-10199,journals,Tracing Paper Book,دفتر ورق شفاف للرسم والنسخ,
-10213,journals,Hardcover Diary – Navy,مفكرة بغلاف صلب – كحلي,
-10216,journals,Hardcover Diary – Green,مفكرة بغلاف صلب – أخضر,
-10214,journals,Hardcover Diary – Red,مفكرة بغلاف صلب – أحمر,
-10218,journals,Hardcover Diary – Pink,مفكرة بغلاف صلب – وردي,
+10202,journals,Math Graph Notebook – 5 mm Squares,دفتر رياضيات – مربعات 5 ملم,1.250
+10203,journals,Math Graph Notebook – 10 mm Squares,دفتر رياضيات – مربعات 10 ملم,0.950
+10205,journals,Square Graph Pads – 10 mm,دفاتر مربعات – 10 ملم,0.550
+10206,journals,Math Notebooks – Numbers Design,دفاتر رياضيات – تصميم الأرقام,0.650
+10207,journals,Colourful Number Notebooks,دفاتر أرقام ملونة,0.600
+10208,journals,Squared Notebooks – Modern Designs,دفاتر مربعات – تصاميم عصرية,0.450
+10209,journals,Squared Notebooks – Kids Designs,دفاتر مربعات – تصاميم الأطفال,0.600
+10199,journals,Tracing Paper Book,دفتر ورق شفاف للرسم والنسخ,0.450
+10213,journals,Hardcover Diary – Navy,مفكرة بغلاف صلب – كحلي,2.500
+10216,journals,Hardcover Diary – Green,مفكرة بغلاف صلب – أخضر,2.950
+10214,journals,Hardcover Diary – Red,مفكرة بغلاف صلب – أحمر,2.950
+10218,journals,Hardcover Diary – Pink,مفكرة بغلاف صلب – وردي,1.250
 10220,journals,Hardcover Diary – Navy with Colour Options,مفكرة بغلاف صلب – كحلي مع خيارات ألوان,
-10219,journals,Leather-look Notebooks – Tan,دفاتر بمظهر جلدي – بني,
-10187,writing,Ballpoint Pen & Glue Stick Set,طقم قلم حبر جاف وصمغ,
-10190,writing,Pencil Jar – Write On!,برطمان أقلام رصاص – Write On,
-10191,writing,Marker & Felt-Tip Pen Sets,أقلام ماركر وفلوماستر,
+10219,journals,Leather-look Notebooks – Tan,دفاتر بمظهر جلدي – بني,3.950
+10187,writing,Ballpoint Pen & Glue Stick Set,طقم قلم حبر جاف وصمغ,1.250
+10190,writing,Pencil Jar – Write On!,برطمان أقلام رصاص – Write On,1.250
+10191,writing,Marker & Felt-Tip Pen Sets,أقلام ماركر وفلوماستر,10.000
 10192,writing,A&T Clear Ballpoint Pens – 3-in-1 Offer,أقلام حبر أي آند تي كلير – عرض 3 في 1,0.900
 10186,desk,Glue Stick Pack,عبوة أقلام صمغ,1.000
 10188,desk,Glue Stick Display Box,علبة عرض أقلام صمغ,1.000
-10210,quran,Holy Quran – Black & Gold,المصحف الشريف – أسود وذهبي,
+10210,quran,Holy Quran – Black & Gold,المصحف الشريف – أسود وذهبي,8.950
 10212,quran,Holy Quran – White & Gold,المصحف الشريف – أبيض وذهبي,8.750
 10211,quran,Wooden Quran Stand,حامل مصحف خشبي,8.750
